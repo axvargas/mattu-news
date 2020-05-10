@@ -57,9 +57,9 @@ const App = () => {
 
 
 				</Grid>
-				<Footer />
+				
 			</Container>
-
+			<Footer />
 		</MuiThemeProvider>
 	);
 }
