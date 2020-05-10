@@ -1,7 +1,7 @@
 import { makeStyles } from '@material-ui/core';
 const useStyles = makeStyles((theme) => ({
 
-    paper: {
+    paperFoot: {
         
         textAlign: 'center',
         backgroundColor: '#0277bd',

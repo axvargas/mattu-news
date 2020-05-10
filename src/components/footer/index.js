@@ -7,7 +7,7 @@ const Footer = () => {
     const classes = useStyles();
 
     return (
-        <Paper className={classes.paper}>
+        <Paper className={classes.paperFoot}>
             <Typography variant="h6" className={classes.typo}> MattuApp&copy; 2020 </Typography>
         </Paper>
     );
