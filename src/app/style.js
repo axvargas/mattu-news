@@ -11,6 +11,14 @@ const useStyles = makeStyles((theme) => ({
         marginBottom: '50px',
         marginTop: '80px',
         
-    }
+    },
+    paper: {
+        textAlign: 'center',
+        backgroundColor: '#0277bd',
+        borderRadius: '0px',
+        width: '100%',
+        color: 'white',
+        minHeight: '48px'
+    },
 }));
 export default useStyles;
