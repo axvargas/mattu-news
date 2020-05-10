@@ -52,14 +52,14 @@ const App = () => {
 						</Grid>
 					</Grid>
 
-					<ListOfNews news={news} globalCategory={globalCategory}/>
+					<ListOfNews news={news} globalCategory={globalCategory} />
 
 
 
 				</Grid>
-
+				<Footer />
 			</Container>
-			<Footer />
+
 		</MuiThemeProvider>
 	);
 }
